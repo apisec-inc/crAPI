@@ -10,7 +10,7 @@
   },
   "servers": [
     {
-      "url": "http://crapi.apisec.ai"
+      "url": "http://crapi2.apisec.ai"
     }
   ],
   "paths": {
